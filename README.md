@@ -33,5 +33,7 @@ Enhancements to the user interface for a more polished and immersive experience.
 Contributing:
 Contributions to the project are welcome! Fork the repository, make your changes, and submit a pull request for review.
 
+Live Project Link:- https://vsmusic.freewebhostmost.com/
+
 Disclaimer:
 This project is a learning exercise and is not intended for commercial use. It is not affiliated with or endorsed by Spotify. All music tracks and album artworks used in the project are placeholders for demonstration purposes only.
